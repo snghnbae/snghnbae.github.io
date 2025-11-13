@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: snghnbae # the main title
 
-tagline: development study # it will display as the subtitle
+tagline: development study vlog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
